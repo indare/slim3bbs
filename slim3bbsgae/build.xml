@@ -1,6 +1,5 @@
 <project name="slim3bbsgae" default="gen-controller" basedir=".">
     <property file="build.properties" />
-
     <path id="classpath">
         <fileset dir="war/WEB-INF/classes">
             <include name="**/*.class" />
